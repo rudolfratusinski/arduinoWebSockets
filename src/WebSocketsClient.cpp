@@ -442,7 +442,7 @@ bool WebSocketsClient::isConnected(void) {
 void WebSocketsClient::messageReceived(WSclient_t * client, WSopcode_t opcode, uint8_t * payload, size_t length, bool fin) {
     WStype_t type = WStype_ERROR;
 
-    UNUSED(client);
+    //UNUSED(client);
 
     switch(opcode) {
         case WSop_text:

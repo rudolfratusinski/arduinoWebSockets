@@ -2,8 +2,8 @@
     "authors": [
         {
             "maintainer": true,
-            "name": "Markus Sattler",
-            "url": "https://github.com/Links2004"
+            "name": "Rudolf Ratusinski",
+            "url": "https://github.com/rudolfratusinski"
         }
     ],
     "description": "WebSocket Server and Client for Arduino based on RFC6455",
@@ -15,11 +15,11 @@
     "frameworks": "arduino",
     "keywords": "wifi, http, web, server, client, websocket",
     "license": "LGPL-2.1",
-    "name": "WebSockets",
+    "name": "WebSocketsRR",
     "platforms": "atmelavr, espressif8266, espressif32, raspberrypi",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Links2004/arduinoWebSockets.git"
+        "url": "https://github.com/rudolfratusinski/arduinoWebSockets.git"
     },
-    "version": "2.4.1"
+    "version": "2.4.2"
 }
